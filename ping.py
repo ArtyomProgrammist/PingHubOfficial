@@ -1,3 +1,4 @@
+# Посмотришь скрипт - ты гей
 from os import *
 from sys import *
 from time import *
