@@ -7,3 +7,9 @@ cd PingHubOfficial
 
 
 python ping.py
+
+
+
+Или
+
+bash InstallerScript.sh</h1>
